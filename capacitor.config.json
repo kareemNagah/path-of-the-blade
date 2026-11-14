@@ -1,0 +1,6 @@
+{
+  "appId": "com.kareem.pathoftheblade",
+  "appName": "Path of the Blade",
+  "webDir": "www",
+  "android": { "backgroundColor": "#efe9dc" }
+}
